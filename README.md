@@ -1,6 +1,6 @@
 # ⚡ Smart Energy Consumption Tracker
 
-click here to open the website ->
+click here to open the website -> https://smart-energy-tracker.streamlit.app/
 
 A professional, full-stack **Streamlit** dashboard for appliance-level energy monitoring, analysis, and smart insights.
 

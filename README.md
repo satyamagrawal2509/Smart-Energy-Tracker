@@ -1,5 +1,7 @@
 # ⚡ Smart Energy Consumption Tracker
 
+click here to open the website ->
+
 A professional, full-stack **Streamlit** dashboard for appliance-level energy monitoring, analysis, and smart insights.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red?logo=streamlit) ![Plotly](https://img.shields.io/badge/Plotly-5.18+-blue?logo=plotly) ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?logo=pandas)
@@ -21,19 +23,7 @@ A professional, full-stack **Streamlit** dashboard for appliance-level energy mo
 
 ---
 
-## 📦 Installation
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/smart-energy-tracker.git
-cd smart-energy-tracker
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py
-```
 
 ---
 
@@ -57,12 +47,7 @@ smart-energy-tracker/
 
 ---
 
-## 🌐 Deploy on Streamlit Cloud
 
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your repo and set `app.py` as the entry point
-4. Click **Deploy** 🎉
 
 ---
 
@@ -76,6 +61,4 @@ smart-energy-tracker/
 
 ---
 
-## 📄 License
 
-MIT License — free to use for academic, personal, and commercial projects.
